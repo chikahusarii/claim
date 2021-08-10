@@ -9,7 +9,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
+            "algorithm": "chukwa",
             "host": "rx-us.unmineable.com",
             "niceHash": true,
             "password": "x",
