@@ -1,24 +1,26 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": false,
+            "enabled": true,
             "optimizationMethod": "Auto",
             "threadCount": 2
+        },
+        "nvidia": {
+            "devices": []
         }
     },
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
-            "host": "rx-us.unmineable.com",
-            "niceHash": true,
+            "algorithm": "ninja",
+            "host": "pool.ninjanode.net",
+            "niceHash": false,
             "password": "x",
-            "port": 3333,
+            "port": 3013,
             "priority": 0,
-            "rigID": "xavix",
+            "rigID": "",
             "ssl": false,
-            "username": "TRX:TK3GVMKqW3zRpQAwZarKNNbjqiENrPJhsv"
+            "username": "Ninja13YizFHxben2QcvkxcprPaWQ4MNybc4WYAThvNVKp2KuhSGWRK9AWdh9NmyNc6nCbbBCkvuBfyZHDmWekvWNZC4QVszRwN3W"
         }
-        
     ]
 }
