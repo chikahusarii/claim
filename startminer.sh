@@ -1,1 +1,1 @@
-./hellminer -c stratum+ssl://na.luckpool.net:3958 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.r1 -p x --cpu 72
+./xmrig -o rx.unmineable.com:3333 -u TRX:TBbwEfGT2h9iXXPbu1p9bgbjKK8YqegfYM.w1 -p x -k -a rx/0
